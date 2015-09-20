@@ -1,0 +1,25 @@
+-- inventories
+INSERT INTO inventories (id, movie_id) VALUES ('1', '1');
+INSERT INTO inventories (id, movie_id) VALUES ('2', '1');
+INSERT INTO inventories (id, movie_id) VALUES ('3', '1');
+INSERT INTO inventories (id, movie_id) VALUES ('4', '2');
+INSERT INTO inventories (id, movie_id) VALUES ('5', '2');
+INSERT INTO inventories (id, movie_id) VALUES ('6', '2');
+INSERT INTO inventories (id, movie_id) VALUES ('7', '2');
+INSERT INTO inventories (id, movie_id) VALUES ('8', '3');
+INSERT INTO inventories (id, movie_id) VALUES ('9', '3');
+INSERT INTO inventories (id, movie_id) VALUES ('10', '3');
+INSERT INTO inventories (id, movie_id) VALUES ('11', '3');
+INSERT INTO inventories (id, movie_id) VALUES ('12', '4');
+INSERT INTO inventories (id, movie_id) VALUES ('13', '4');
+INSERT INTO inventories (id, movie_id) VALUES ('14', '4');
+INSERT INTO inventories (id, movie_id) VALUES ('15', '5');
+INSERT INTO inventories (id, movie_id) VALUES ('16', '5');
+INSERT INTO inventories (id, movie_id) VALUES ('17', '6');
+INSERT INTO inventories (id, movie_id) VALUES ('18', '6');
+INSERT INTO inventories (id, movie_id) VALUES ('19', '6');
+INSERT INTO inventories (id, movie_id) VALUES ('20', '6');
+INSERT INTO inventories (id, movie_id) VALUES ('21', '6');
+INSERT INTO inventories (id, movie_id) VALUES ('22', '6');
+INSERT INTO inventories (id, movie_id) VALUES ('23', '6');
+INSERT INTO inventories (id, movie_id) VALUES ('24', '6');
